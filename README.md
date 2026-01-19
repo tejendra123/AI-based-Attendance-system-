@@ -13,7 +13,7 @@ Figure 1: Home Page
 
 ---
 
-## 🚀 Features
+##  🚀 Features
 
 ### 👨🎓 Student Panel
 
@@ -22,6 +22,7 @@ Figure 1: Home Page
 * Email notification when attendance is marked
 
 ![image-alt](https://github.com/tejendra123/AI-based-Attendance-system-/blob/d6313f7570919309394fe2a3f17310ca14aa25c8/opencv/student.jpeg)
+
 Figure 2: Student Panel
 
 ---
