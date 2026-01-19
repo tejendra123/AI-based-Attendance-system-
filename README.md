@@ -1,4 +1,4 @@
-# Introduction
+##  Introduction
 
 * The "AI-Powered Automatic Attendance System Using Deep Learning" is an automated attendance tracking application built using Python and MySQL. Instead of taking attendance manually, this system uses advanced face recognition technology to identify students in real time through a webcam or camera feed and automatically logs their attendance in the database. This saves time, eliminates errors, and ensures a reliable attendance record.
 
