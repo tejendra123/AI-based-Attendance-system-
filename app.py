@@ -1102,8 +1102,8 @@ def submit():
 
 
 def send_low_attendance_mail(to_email, rollno, percentage):
-    sender_email = "tanishkayadav6000@gmail.com"
-    sender_pass = "fhwf hsdt kzvh jvuq"
+    sender_email = ""
+    sender_pass = ""
 
     subject = f"Low Attendance Warning - Roll No {rollno}"
     body = f"Your attendance is below 50%. Attendance: {percentage:.2f}%"
